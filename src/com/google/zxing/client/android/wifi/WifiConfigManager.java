@@ -29,6 +29,7 @@ import com.google.zxing.client.result.WifiParsedResult;
 /**
  * @author Vikram Aggarwal
  * @author Sean Owen
+ * Added modification to test github
  */
 public final class WifiConfigManager extends AsyncTask<WifiParsedResult,Object,Object> {
 
